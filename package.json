@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node app-1.ts",
     "start2": "ts-node app-2.ts",
-    "start3": "ts-node app-3.ts"
+    "start3": "ts-node app-3.ts",
+    "start4": "ts-node app-4.ts"
   },
   "author": "",
   "license": "ISC",

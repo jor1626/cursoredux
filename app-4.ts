@@ -1,6 +1,7 @@
 
 import { Store, createStore } from 'redux'
 import { reducerContador } from './contador/calculate.reducer';
+import { incrementAction } from './contador/calculate.actions';
 
 const store: Store = createStore( reducerContador);
 
